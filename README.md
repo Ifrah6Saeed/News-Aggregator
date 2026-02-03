@@ -2,22 +2,22 @@
 News-Aggregator is a Laravel-based web application designed to collect, manage, and display news articles in an organized manner. The application allows users to browse news by categories, view detailed articles, and manage content through a structured CRUD system. It also includes user authentication for secure access.
 
 # Features
-User authentication (Login, Register, Password Reset, Email Verification)
-Article management (Create, Read, Update, Delete)
-Category management
-Organized and user-friendly interface using Blade templates
-MVC architecture following Laravel best practices
-Secure and scalable backend
+User authentication (Login, Register, Password Reset, Email Verification)  <br>
+Article management (Create, Read, Update, Delete) <br>
+Category management <br>
+Organized and user-friendly interface using Blade templates <br>
+MVC architecture following Laravel best practices <br>
+Secure and scalable backend <br>
 
 # Technologies Used
-Laravel (PHP Framework)
-PHP
-Blade Templating Engine
-HTML5
-CSS3
-JavaScript
-MySQL
-Composer
+Laravel (PHP Framework) <br>
+PHP <br>
+Blade Templating Engine <br>
+HTML5 <br>
+CSS3 <br>
+JavaScript <br>
+MySQL <br>
+Composer <br>
 
 # How to Run the Project
 1- Clone the repository
