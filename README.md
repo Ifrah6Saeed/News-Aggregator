@@ -1,4 +1,4 @@
-# News-Aggregator
+<img width="446" height="719" alt="image" src="https://github.com/user-attachments/assets/4b4a6579-c375-4b10-be05-67ce3a10a8f2" /># News-Aggregator
 News-Aggregator is a Laravel-based web application designed to collect, manage, and display news articles in an organized manner. The application allows users to browse news by categories, view detailed articles, and manage content through a structured CRUD system. It also includes user authentication for secure access.
 
 # Features
@@ -44,31 +44,31 @@ php artisan serve
 
 
 # Project Structure
-resources/
-├── views/
-│   ├── articles/
-│   │   ├── create.blade.php
-│   │   ├── edit.blade.php
-│   │   ├── index.blade.php
-│   │   └── show.blade.php
-│   │
-│   ├── categories/
-│   │   ├── create.blade.php
-│   │   ├── edit.blade.php
-│   │   └── index.blade.php
-│   │
-│   ├── auth/
-│   │   ├── login.blade.php
-│   │   ├── register.blade.php
-│   │   ├── forgot-password.blade.php
-│   │   ├── reset-password.blade.php
-│   │   ├── verify-email.blade.php
-│   │   └── confirm-password.blade.php
-│   │
-│   ├── layouts/
-│   ├── components/
-│   └── profile/
-│
+resources/ <br>
+├── views/  <br>
+│   ├── articles/  <br>
+│   │   ├── create.blade.php  <br>
+│   │   ├── edit.blade.php  <br>
+│   │   ├── index.blade.php  <br>
+│   │   └── show.blade.php  <br>
+│   │ <br>
+│   ├── categories/  <br>
+│   │   ├── create.blade.php  <br>
+│   │   ├── edit.blade.php  <br>
+│   │   └── index.blade.php  <br>
+│   │ <br>
+│   ├── auth/  <br>
+│   │   ├── login.blade.php  <br>
+│   │   ├── register.blade.php  <br>
+│   │   ├── forgot-password.blade.php  <br>
+│   │   ├── reset-password.blade.php  <br>
+│   │   ├── verify-email.blade.php <br>
+│   │   └── confirm-password.blade.php  <br>
+│   │ <br>
+│   ├── layouts/  <br>
+│   ├── components/  <br>
+│   └── profile/  <br>
+│ <br>
 ├── js/
 
 # Purpose of the Project
