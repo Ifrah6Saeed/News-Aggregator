@@ -1,4 +1,4 @@
-<img width="446" height="719" alt="image" src="https://github.com/user-attachments/assets/4b4a6579-c375-4b10-be05-67ce3a10a8f2" /># News-Aggregator
+# News-Aggregator
 News-Aggregator is a Laravel-based web application designed to collect, manage, and display news articles in an organized manner. The application allows users to browse news by categories, view detailed articles, and manage content through a structured CRUD system. It also includes user authentication for secure access.
 
 # Features
